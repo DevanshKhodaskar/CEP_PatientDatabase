@@ -1,18 +1,21 @@
 {
-    "name": "TANEJA",
-    "last_name": "HANEE",
-    "gender": "Male",
-    "dob": "06/12/1997",
-    "contact_no": "6298485322",
-    "blood_group": "O+",
-    "medical_details": {
-        "heart_condition": "No",
-        "physical_defect": "No",
-        "physical_defect_handicap": "No",
-        "mental_illness": "No",
-        "critical_illness": "No",
-        "medication": "No",
-        "alcohol_drug_abuse": "No",
-        "surgery": "No"
-    }
+    "book_number": "1234",
+    "registration_number": "5678",
+    "name": "Johu Doe",
+    "age": "45",
+    "date_of_birth": "10/02/1979",
+    "sex": "General",
+    "caste": null,
+    "mobile_number": "9876543210",
+    "aadhar_number": "1234 5678 9101",
+    "address": "123 Main Street, Cityville",
+    "date_of_admission": "01/03/2024",
+    "mother's_name": "Jane Doe",
+    "relatives": "Mother's Name",
+    "blood_group": "MB",
+    "leprosy_type": "MB",
+    "mdt_status": "Under MDT",
+    "deformity_status": null,
+    "duration_of_disease": "6 months",
+    "previous_occupation": "Farmer"
 }
